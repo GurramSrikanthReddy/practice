@@ -2,7 +2,7 @@ public class TernaryOperatorDemo{
 
 	public static void main(String args[]){
 
-          int a=30,b=50,c=70;
+          int a=35,b=55,c=75;
           
           int max1 = (a>b) ? a : b;
           System.out.println("The maximum value of two numbers using ternary operator : " +max1);
