@@ -14,9 +14,9 @@ public static void main(String args[]){
 	   	FulfillmentSource f2 = new FulfillmentSource();
 
 
-	    System.out.println(f2.nodeId);
+	    /*System.out.println(f2.nodeId);
 	    System.out.println(f2.actualInventoryNode);
-	    System.out.println(f2.quantity);
+	    System.out.println(f2.quantity);*/
 
 	System.out.println(f1.nodeId);
 	System.out.println(f1.actualInventoryNode);
@@ -32,6 +32,7 @@ public static void main(String args[]){
 
 		System.out.println("main methods ends");
 	
+
 
 
 
